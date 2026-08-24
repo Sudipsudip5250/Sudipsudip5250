@@ -51,6 +51,17 @@ I am intentionally keeping this section honest: these are **areas of exploration
 
 > **Open to collaboration:** If you are working on an open-source AI, machine learning, research, or education project, I would be glad to hear what you are building.
 
+### ◇ Public work
+
+These links point to repositories that currently exist on my GitHub. I am keeping this list intentionally small so the profile highlights real work rather than every experiment.
+
+| Repository | Focus |
+|---|---|
+| [`SudipOfficial`](https://github.com/Sudipsudip5250/SudipOfficial) | Portfolio, experiments, research notes, and an interactive contact experience |
+| [`open-skillbox`](https://github.com/Sudipsudip5250/open-skillbox) | A modular, open-source library of reusable skills for AI agents |
+| [`gcode-harness`](https://github.com/Sudipsudip5250/gcode-harness) | A Rust-based, multi-model coding-agent harness with multi-session workflows |
+| [`airsi-algotrader`](https://github.com/Sudipsudip5250/airsi-algotrader) | Market research and paper-trading tooling built around bounded experiments |
+
 ### `identity.ts`
 
 ```ts
@@ -112,6 +123,10 @@ I prefer tools that help me move from an idea to a reproducible result without l
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sudipsudip5250&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight" alt="Sudip's GitHub statistics" height="170" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sudipsudip5250&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Sudip's most used programming languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudipsudip5250&theme=tokyo-night&hide_border=true&area=true" alt="Sudip's GitHub activity graph" width="92%" />
 </div>
 
 <details>
