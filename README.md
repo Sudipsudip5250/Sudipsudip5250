@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="#-about-me">About</a> ·
-  <a href="#-what-im-building">Building</a> ·
+  <a href="#-what-im-exploring">Exploring</a> ·
   <a href="#-toolkit">Toolkit</a> ·
   <a href="#-github-signal">GitHub signal</a> ·
   <a href="#-lets-connect">Connect</a>
@@ -38,18 +38,29 @@ I care about understanding systems from first principles, documenting what I lea
 | **Open-source energy** | Sharing experiments, datasets, and educational tools |
 | **Collaboration** | AI/ML research, developer tools, education, and thoughtful UI/UX |
 
-## ⌁ What I'm building
+## ⌁ What I'm exploring
 
-These are the problem spaces currently receiving my attention. The exact implementation may change, but the goal stays the same: make complex ideas easier to use.
+I am intentionally keeping this section honest: these are **areas of exploration and ideas**, not shipped products. I will link them here when there is a real public repository or working demo to share.
 
-| Project direction | What it explores |
+| Exploration area | Current intention |
 |---|---|
-| **Smart alarm app** | A Flutter experience that uses maths and logic challenges to help people start the day intentionally. |
-| **NEPSE intelligence** | Forecasting experiments using market data, deep learning, and ARIMA-style time-series methods. |
-| **Typing + reading platform** | An open-source learning environment that combines deliberate typing practice with focused reading. |
-| **Generative AI experiments** | Small, human-centred models and prototypes that explore emotion, language, and useful interaction. |
+| **Generative AI** | Understand language models, model training, and human-centred AI interactions more deeply. |
+| **Data and forecasting** | Learn from real datasets and experiment with responsible, reproducible analysis. |
+| **Learning tools** | Explore small products that make practice, reading, or technical learning more engaging. |
+| **Full-stack craft** | Improve the bridge between useful models, reliable APIs, and thoughtful interfaces. |
 
 > **Open to collaboration:** If you are working on an open-source AI, machine learning, research, or education project, I would be glad to hear what you are building.
+
+### `identity.ts`
+
+```ts
+const sudip = {
+  name: "Sudip Bhattarai",
+  focus: ["Generative AI", "Data", "Full-stack development"],
+  approach: "Learn deeply. Build honestly. Share openly.",
+  status: "Exploring ideas and building in public",
+};
+```
 
 <details>
 <summary><strong>⌘ Current learning queue</strong></summary>
@@ -113,6 +124,18 @@ I prefer tools that help me move from an idea to a reproducible result without l
 </div>
 
 </details>
+
+## 🐍 Contributions going serpentine
+
+A small visual record of the work that makes it into GitHub. This animation is generated automatically by the repository workflow and stays in the profile as the contribution history changes.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg" />
+    <img src="./output/github-contribution-grid-snake.svg" alt="Animated snake moving through Sudip's GitHub contribution grid" width="92%" />
+  </picture>
+</div>
 
 ## ◌ Let's connect
 
