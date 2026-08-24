@@ -20,6 +20,7 @@
   <a href="#-what-im-exploring">Exploring</a> ·
   <a href="#-toolkit">Toolkit</a> ·
   <a href="#-github-signal">GitHub signal</a> ·
+  <a href="#-mission-control">Mission control</a> ·
   <a href="#-lets-connect">Connect</a>
 </p>
 
@@ -82,6 +83,48 @@ const sudip = {
 - PyTorch, Transformer architectures, model conversion, and efficient inference.
 - Flutter product development and polished interface design.
 - Practical data science, deployment workflows, and AI infrastructure.
+
+</details>
+
+## ◉ Mission control
+
+<div align="center">
+  <img src="./assets/mission-control.svg" alt="Animated neon 3D mission-control console with Build, Learn, and Share paths" width="100%" />
+</div>
+
+<details>
+<summary><strong>▶ Launch the README mini-game: choose your next mission</strong></summary>
+
+<br />
+
+> **Objective:** Pick one route. Every route leads to a different kind of useful work.
+
+<details>
+<summary><strong>01 / BUILD</strong> — turn an idea into a prototype</summary>
+
+Start with the smallest version that can teach you something. Make one interaction feel good, test it with a real user, and publish the result with a short README.
+
+**Reward unlocked:** `prototype thinking`
+
+</details>
+
+<details>
+<summary><strong>02 / LEARN</strong> — follow the signal</summary>
+
+Choose one unfamiliar concept, trace it back to first principles, and write down the explanation you wish you had found at the beginning.
+
+**Reward unlocked:** `clearer questions`
+
+</details>
+
+<details>
+<summary><strong>03 / SHARE</strong> — open the loop</summary>
+
+Package the useful part of your experiment: the dataset, the lesson, the source code, or the failure mode. Someone else should be able to learn from it without needing the whole backstory.
+
+**Reward unlocked:** `open-source momentum`
+
+</details>
 
 </details>
 
