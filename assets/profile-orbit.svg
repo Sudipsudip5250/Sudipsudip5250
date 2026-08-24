@@ -1,0 +1,85 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sudip profile header</title>
+  <desc id="desc">A dark neon research dashboard with an isometric cube, orbital rings, stars, and the words AI, DATA, and BUILD.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B17"/>
+      <stop offset="0.52" stop-color="#111332"/>
+      <stop offset="1" stop-color="#19102F"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#66E3FF"/>
+      <stop offset="0.5" stop-color="#8B7CFF"/>
+      <stop offset="1" stop-color="#FFB86B"/>
+    </linearGradient>
+    <linearGradient id="cyanFace" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1B5B8A"/>
+      <stop offset="1" stop-color="#0F2648"/>
+    </linearGradient>
+    <linearGradient id="violetFace" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7459B7"/>
+      <stop offset="1" stop-color="#2B205F"/>
+    </linearGradient>
+    <linearGradient id="goldFace" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#DB9567"/>
+      <stop offset="1" stop-color="#754331"/>
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="skewY(-22)">
+      <path d="M36 0H0V36" stroke="#7D86C9" stroke-opacity="0.1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="url(#glow)" stroke-opacity="0.5"/>
+  <rect x="26" y="24" width="1148" height="312" rx="20" fill="url(#grid)" opacity="0.8"/>
+
+  <g opacity="0.75" fill="#A7F3FF">
+    <circle cx="74" cy="72" r="2"/><circle cx="180" cy="286" r="1.7"/><circle cx="1070" cy="74" r="2"/><circle cx="1136" cy="244" r="1.5"/><circle cx="710" cy="52" r="1.5"/><circle cx="985" cy="290" r="1.7"/>
+  </g>
+  <g opacity="0.35" fill="#FFBD8A">
+    <circle cx="322" cy="82" r="1.4"/><circle cx="844" cy="312" r="1.4"/><circle cx="1100" cy="150" r="1.2"/>
+  </g>
+
+  <g transform="translate(120 56)" filter="url(#shadow)">
+    <ellipse cx="152" cy="230" rx="142" ry="28" fill="#02040B" opacity="0.58"/>
+    <ellipse cx="152" cy="160" rx="150" ry="57" stroke="#66E3FF" stroke-opacity="0.55" stroke-width="2" transform="rotate(-18 152 160)"/>
+    <ellipse cx="152" cy="160" rx="150" ry="57" stroke="#FFB86B" stroke-opacity="0.42" stroke-width="2" transform="rotate(38 152 160)"/>
+    <path d="M20 165C58 71 242 53 284 153C313 221 230 260 134 236C61 219 13 197 20 165Z" stroke="#8B7CFF" stroke-opacity="0.35" stroke-width="2"/>
+    <circle cx="244" cy="98" r="7" fill="#FFB86B" filter="url(#softGlow)"/>
+    <circle cx="55" cy="192" r="5" fill="#66E3FF" filter="url(#softGlow)"/>
+
+    <g transform="translate(60 46)">
+      <path d="M92 0L184 52L92 104L0 52L92 0Z" fill="url(#goldFace)" stroke="#FFD1A9" stroke-opacity="0.75" stroke-width="2"/>
+      <path d="M0 52L92 104V210L0 158V52Z" fill="url(#cyanFace)" stroke="#66E3FF" stroke-opacity="0.6" stroke-width="2"/>
+      <path d="M184 52L92 104V210L184 158V52Z" fill="url(#violetFace)" stroke="#B7A8FF" stroke-opacity="0.65" stroke-width="2"/>
+      <path d="M92 24L140 52L92 80L44 52L92 24Z" fill="#FFF1D6" fill-opacity="0.12"/>
+      <path d="M32 82L92 116L152 82M32 112L92 146L152 112M32 142L92 176L152 142" stroke="#B4F5FF" stroke-opacity="0.2" stroke-width="2"/>
+      <path d="M92 116V190M92 146V190" stroke="#E2D9FF" stroke-opacity="0.2" stroke-width="2"/>
+    </g>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#DCEBFF">
+    <text x="480" y="108" font-size="15" letter-spacing="4" fill="#66E3FF">RESEARCH • BUILD • SHARE</text>
+    <text x="476" y="170" font-size="44" font-weight="700" letter-spacing="-1">SUDIP <tspan fill="#8B7CFF">SUDIP</tspan></text>
+    <text x="480" y="204" font-size="16" fill="#C3C9E8">Generative AI · full-stack · open source</text>
+    <rect x="480" y="236" width="244" height="34" rx="17" fill="#66E3FF" fill-opacity="0.08" stroke="#66E3FF" stroke-opacity="0.35"/>
+    <text x="500" y="258" font-size="13" fill="#A7F3FF">&gt; turning curiosity into code_</text>
+    <text x="900" y="112" font-size="12" letter-spacing="2" fill="#FFB86B">SIGNAL / 01</text>
+    <text x="900" y="145" font-size="28" font-weight="700" fill="#F2EFFF">AI</text>
+    <text x="900" y="183" font-size="28" font-weight="700" fill="#F2EFFF">DATA</text>
+    <text x="900" y="221" font-size="28" font-weight="700" fill="#F2EFFF">BUILD</text>
+    <path d="M900 246H1076" stroke="url(#glow)" stroke-width="2"/>
+    <text x="900" y="274" font-size="12" fill="#AAB0D2">Nepal · UTC+05:45</text>
+  </g>
+
+  <g fill="#66E3FF" opacity="0.65">
+    <circle cx="1078" cy="111" r="3"/><circle cx="1094" cy="111" r="3"/><circle cx="1110" cy="111" r="3"/>
+  </g>
+</svg>
