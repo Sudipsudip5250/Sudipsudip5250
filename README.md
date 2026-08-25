@@ -19,6 +19,7 @@
   <a href="#-about-me">About</a> ·
   <a href="#-what-im-exploring">Exploring</a> ·
   <a href="#-toolkit">Toolkit</a> ·
+  <a href="#-system-status">System status</a> ·
   <a href="#-github-signal">GitHub signal</a> ·
   <a href="#-mission-control">Mission control</a> ·
   <a href="#-lets-connect">Connect</a>
@@ -73,6 +74,19 @@ const sudip = {
   status: "Exploring ideas and building in public",
 };
 ```
+
+## ◈ System status
+
+A compact snapshot of what is real, public, and ready to explore.
+
+| Node | State | Open the loop |
+|---|---|---|
+| **Portfolio interface** | `LIVE` · Cloudflare Pages | [sudipbhattarai0.com.np](https://sudipbhattarai0.com.np) |
+| **Contact persistence** | `ONLINE` · Cloudflare Pages Function + D1 | [Open contact](https://sudipbhattarai0.com.np/root/contact/contact.html) |
+| **Public work** | `CURATED` · verified repositories | [Browse projects](https://github.com/Sudipsudip5250?tab=repositories) |
+| **Learning loop** | `ACTIVE` · notes, experiments, open source | [Read the profile](https://github.com/Sudipsudip5250) |
+
+> **Signal rule:** shipped work gets a link, ideas get a label, and experiments get a clear status.
 
 <details>
 <summary><strong>⌘ Current learning queue</strong></summary>
@@ -159,7 +173,8 @@ I prefer tools that help me move from an idea to a reproducible result without l
 ![Git](https://img.shields.io/badge/Git-0B1F33?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1F33?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Postman](https://img.shields.io/badge/Postman-0B1F33?style=flat-square&logo=postman&logoColor=FF6C37)
-![Render](https://img.shields.io/badge/Render-0B1F33?style=flat-square&logo=render&logoColor=46E3B7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0B1F33?style=flat-square&logo=cloudflare&logoColor=F38020)
+![D1](https://img.shields.io/badge/D1-0B1F33?style=flat-square&logo=cloudflare&logoColor=F38020)
 
 ## ⟁ GitHub signal
 
