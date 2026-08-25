@@ -184,7 +184,7 @@ I prefer tools that help me move from an idea to a reproducible result without l
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudipsudip5250&theme=tokyo-night&hide_border=true&area=true" alt="Sudip's GitHub activity graph" width="92%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudipsudip5250&theme=tokyonight&hide_border=true" alt="Sudip's GitHub contribution streak" width="92%" />
 </div>
 
 <details>
