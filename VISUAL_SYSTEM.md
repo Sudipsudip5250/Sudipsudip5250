@@ -88,3 +88,15 @@ The home signal stage is a control-free, continuously rotating Signal Reactor / 
 ## Git history convention
 
 Human-authored commits in the August 24–25 portfolio/profile work use the established identity **Sudip Bhattarai <sudipsudip5250@gmail.com>**. Automated contribution refresh commits remain attributed to `github-actions[bot]` so automation provenance is not rewritten as a human author.
+
+## Premium editorial instrument pass
+
+The 2026 refinement moves the portfolio from a collection of neon surfaces toward a chapter-based editorial instrument. The shell gives typography, spacing, dividers, and actions more authority while the runtime visuals carry one dominant metaphor per route. Home uses the Signal Reactor; Work uses three project-specific instruments; Toolkit uses a live eight-node capability graph; and the home mission-control surface uses a live three-path WebGL console. The static mission-control and toolkit SVGs remain preserved for GitHub README compatibility and fallback use, while the portfolio route uses live code-driven canvases.
+
+The Work cards layer the shared code-generated WebGL field with distinct lightweight instruments: a rotor for Fan, clock hands and ticks for Hybrid Clock, and a connected temporary-room mesh for Ephemeral Chat. The generative AI showcase has three different runtime renderers within one accessible canvas: a prompt-to-path field, separated embedding neighborhoods, and a trace-oriented inference display. Tabs and pause/re-sample controls remain explicit.
+
+The route-aware `ScrollScene3D` now uses chapter geometry instead of a shared cube preset: a reactor halo on Home, three instrument bays on Work, an eight-node graph on Toolkit, and an open beacon on Contact. Runtime scenes use bounded geometry, capped pixel ratios, hidden-tab pause, low-power heuristics, coarse-pointer safeguards, and reduced-motion fallbacks. SVG assets remain the README-facing visual layer and are not removed by this runtime upgrade.
+
+### References
+
+[1]: https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices "MDN — WebGL best practices"
