@@ -1,102 +1,158 @@
-<h1 align="center">Hey there, I'm Sudip 👋</h1>
+<div align="center">
+  <img src="./assets/hero-banner.svg" alt="Sudip Bhattarai — Research, Build, Share" width="100%" />
+</div>
 
 <p align="center">
-  🚀 Researcher | 🧠 Generative AI Creator | 💻 Full-Stack Developer | 🎯 Always Learning | 🇳🇵
+  <a href="https://sudipbhattarai0.com.np/"><strong>Open the portfolio</strong></a> ·
+  <a href="https://github.com/Sudipsudip5250?tab=repositories">Browse the repositories</a> ·
+  <a href="mailto:sudipsudip5250@gmail.com">Start a conversation</a>
 </p>
 
----
+> I turn curiosity into working software — exploring **Generative AI**, **data**, **full-stack systems**, and the open-source learning loop around them.
 
-## 💫 About Me:
+## ◈ About the lab
 
-🔭 I’m currently working on:
-- A **smart alarm app** built with **Flutter** that prevents oversleeping by challenging your brain with math and logic.
-- An **AI model to predict NEPSE stock prices** using deep learning & ARIMA — skipping holidays and weekends smartly.
-- A **typing + book reading web app** inspired by Entertrained — with open-source values.
+This profile is a living research surface rather than a trophy shelf. I try to understand systems from first principles, build the smallest proof that can teach me something, and share the useful part with enough context for another person to follow.
 
-👯 I’m looking to collaborate on:
-- Open-source AI & Machine Learning projects.
-- Anything that fuses research, innovation, and education.
+| Signal | Current direction |
+|---|---|
+| **Core interest** | Generative AI, language models, forecasting, and applied data science |
+| **Build style** | Learn deeply, prototype quickly, then make the result useful |
+| **Open-source energy** | Sharing experiments, datasets, educational tools, and practical notes |
+| **Base** | Sunsari, Nepal |
 
-🤝 I’m looking for help with:
-- Improving my LLM training from scratch.
-- Better UI/UX for my typing+reading app.
-- Hosting/deploying AI models efficiently.
+## ⌁ Current exploration
 
-🌱 I’m currently learning:
-- **Flutter**, **PyTorch**, **Transformer architecture**, **LLMs from scratch**.
-- Advanced **data science** and AI infrastructure (TensorFlow.js, model conversion, etc.).
+The strongest thread right now sits between models and interfaces: how can a technical idea become a small, understandable, useful system? I am keeping the list honest; an idea stays an exploration until there is a real public repository, document, or working demo to link.
 
-⚡ Fun fact:
-I turn my curiosity into code and share everything free and open-source. Also... I'm a night owl 🦉 fueled by ideas and coffee ☕.
+- Training and understanding language models from first principles.
+- PyTorch, Transformer architectures, model conversion, and efficient inference.
+- Flutter product development and thoughtful interface design.
+- Practical data science, deployment workflows, and AI infrastructure.
 
----
+## ✦ Public work
 
-## 🌐 Connect with Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sudipsudip525)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudipsudip5250)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sudipsudip5250)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudipsudip5250@gmail.com)
+These are verified public projects and notes. The list is intentionally small so the profile points to real work rather than invented case studies.
 
----
+| Repository | Focus |
+|---|---|
+| [`SudipOfficial`](https://github.com/Sudipsudip5250/SudipOfficial) | Portfolio, experiments, research notes, and an interactive contact experience |
+| [`open-skillbox`](https://github.com/Sudipsudip5250/open-skillbox) | A modular, open-source library of reusable skills for AI agents |
+| [`gcode-harness`](https://github.com/Sudipsudip5250/gcode-harness) | A Rust-based, multi-model coding-agent harness with multi-session workflows |
+| [`airsi-algotrader`](https://github.com/Sudipsudip5250/airsi-algotrader) | Market research and paper-trading tooling built around bounded experiments |
 
-## 🧠 Current Projects:
-- `📈` NEPSE Datasets
-- `💬` Valentine Chat AI (emotional generative AI model)
+### `identity.ts`
 
----
+```ts
+const sudip = {
+  name: "Sudip Bhattarai",
+  focus: ["Generative AI", "Data", "Full-stack development"],
+  approach: "Learn deeply. Build honestly. Share openly.",
+  status: "Exploring ideas and building in public",
+};
+```
 
-## 🛠️ Tech Stack:
+## ◉ Mission control
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+<div align="center">
+  <img src="./assets/mission-control.svg" alt="Animated neon holographic console with Build, Learn, and Share pathways" width="100%" />
+</div>
 
-**Backend / API:**  
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=flat&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
+<details>
+<summary><strong>▶ Choose your next mission</strong></summary>
 
-**Machine Learning / AI:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
+<br />
 
-**DevOps & Tools:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
+> **Objective:** Pick one route. Every route leads to a different kind of useful work.
 
----
+<details>
+<summary><strong>01 / BUILD</strong> — turn an idea into a prototype</summary>
 
-## 📊 GitHub Stats:
+Start with the smallest version that can teach you something. Make one interaction feel good, test it with a real user, and publish the result with a short README.
 
-![](https://github-readme-stats.vercel.app/api?username=Sudipsudip5250&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Sudipsudip5250&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudipsudip5250&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Reward unlocked:** `prototype thinking`
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sudipsudip5250&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</details>
 
----
+<details>
+<summary><strong>02 / LEARN</strong> — follow the signal</summary>
 
-## 📈 Visitor Counter
-[![](https://visitcount.itsvg.in/api?id=Sudipsudip5250&icon=0&color=0)](https://visitcount.itsvg.in)
+Choose one unfamiliar concept, trace it back to first principles, and write down the explanation you wish you had found at the beginning.
 
----
+**Reward unlocked:** `clearer questions`
 
-## ☕ Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sudipsudip5250)
+</details>
 
----
+<details>
+<summary><strong>03 / SHARE</strong> — open the loop</summary>
 
-<!-- Proudly created with ❤️ by Sudip using GPRM ( https://gprm.itsvg.in ) -->
+Package the useful part of your experiment: the dataset, lesson, source code, or failure mode. Someone else should be able to learn from it without needing the whole backstory.
+
+**Reward unlocked:** `open-source momentum`
+
+</details>
+
+</details>
+
+## ⟡ Toolkit constellation
+
+Tools are nodes. The loop is the system. I use the following technologies and practices as connected parts of the same process rather than as a scoreboard.
+
+<div align="center">
+  <img src="./assets/toolkit-constellation.svg" alt="Orbital toolkit map connecting Python, PyTorch, Flutter, React, Rust, Cloudflare, Transformers, and data visualization" width="100%" />
+</div>
+
+| Domain | Working set |
+|---|---|
+| **Languages and interfaces** | Python, JavaScript, HTML, CSS, React, Flutter, Tailwind CSS, Node.js, Flask |
+| **Machine learning and data** | PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, SciPy, Transformers, data visualization |
+| **Systems and delivery** | Rust, Git, GitHub Actions, Postman, Cloudflare, D1 |
+
+## ◇ Project card language
+
+Every public project follows the same visual contract: one clear title, one honest status, a compact stack, and a path to the source or live build.
+
+<div align="center">
+  <img src="./assets/project-card-template.svg" alt="Cyber-research glass project-card template with neon edge, floating glyph, status pill, and metadata hierarchy" width="640" />
+</div>
+
+## ◉ System status
+
+| Node | State | Open the loop |
+|---|---|---|
+| **Portfolio interface** | `LIVE` · Cloudflare Pages | [sudipbhattarai0.com.np](https://sudipbhattarai0.com.np/) |
+| **Contact persistence** | `ONLINE` · Pages Function + D1 | [Open contact](https://sudipbhattarai0.com.np/root/contact/contact.html) |
+| **Public work** | `CURATED` · verified repositories | [Browse projects](https://github.com/Sudipsudip5250?tab=repositories) |
+| **Learning loop** | `ACTIVE` · notes, experiments, open source | [Read the profile](https://github.com/Sudipsudip5250) |
+
+> **Signal rule:** shipped work gets a link, ideas get a label, and experiments get a clear status.
+
+## ⟁ GitHub signal
+
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sudipsudip5250&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight" alt="Sudip's GitHub statistics" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sudipsudip5250&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Sudip's most used programming languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudipsudip5250&theme=tokyonight&hide_border=true" alt="Sudip's GitHub contribution streak" width="92%" />
+</div>
+
+## ◇ Research note
+
+[Universe: The Pre-build Code](https://sudipbhattarai0.com.np/research/universe-the-pre-build-code) is a short note about framing an idea before building it: where a personal lens becomes a method, and where curiosity becomes a repeatable learning practice.
+
+## ◌ Connect
+
+The best conversations usually start with a shared problem, an unfinished experiment, or a question that does not have a clean answer yet.
+
+<div align="center">
+  <a href="https://www.facebook.com/sudipsudip525"><img src="https://img.shields.io/badge/Facebook-111332?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/sudipsudip5250"><img src="https://img.shields.io/badge/Instagram-111332?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="https://x.com/sudipsudip5250"><img src="https://img.shields.io/badge/X-111332?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" /></a>
+  <a href="mailto:sudipsudip5250@gmail.com"><img src="https://img.shields.io/badge/Email-111332?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Sudip" /></a>
+</div>
+
+<p align="center"><sub>Stay curious. Build boldly. Share what you learn.</sub></p>
+
+<!-- Cyber-research visual system for Sudip Bhattarai. -->
